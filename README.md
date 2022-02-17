@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python, AI, Data Bases and more! **Python, AI, Data Bases, Machine Learning!**
 
-- 💬 Ask me about **Python, Power BI, Excel**
+- 💬 Ask me about **Python, SQL, Excel**
 
 - 📫 How to reach me: **valter.ribeiro.fl@gmail.com**
 
